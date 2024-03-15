@@ -113,7 +113,7 @@ function Navbar() {
                                         display: 'block',
                                         textDecoration: 'none',
                                         '&.active': {
-                                            color: 'gold',
+                                            color: 'red',
                                         },
                                     }}
                                 >
